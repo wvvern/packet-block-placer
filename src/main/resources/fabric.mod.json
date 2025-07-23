@@ -3,7 +3,7 @@
 	"id": "packet-block-placer",
 	"version": "${version}",
 	"name": "Packet Block Placer",
-	"description": "This mod allows players to place blocks via the PlayerInteractBlockC2SPacket and bypass all the checks that would normally prevent block placement.",
+	"description": "This mod allows players to place blocks via the PlayerInteractBlockC2SPacket and bypass all client-side checks that would normally prevent block placement.",
 	"authors": [
 		"wvvern"
 	],
