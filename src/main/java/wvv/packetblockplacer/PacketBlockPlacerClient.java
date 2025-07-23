@@ -23,7 +23,7 @@ public class PacketBlockPlacerClient implements ClientModInitializer {
         placeKeyBinding = KeyBindingHelper.registerKeyBinding(new KeyBinding(
             "key.packet-block-placer.place", // Translation key
             InputUtil.Type.KEYSYM,
-            GLFW.GLFW_KEY_P, // Default key
+            GLFW.GLFW_KEY_B, // Default key
             "category.packet-block-placer" // Category translation key
         ));
 
